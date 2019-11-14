@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="action_settings">Settings</string>
+    <string name="last_updated">Last updated: %1s</string>
+    <string name="title_activity_create_note">CreateNoteActivity</string>
+    <string name="tvTitle">My personal notepad</string>
+    <string name="etNoteInput">Type in your note</string>
+    <string name="tvNoteInput" />
+</resources>
